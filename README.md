@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/openrightsgroup/cmp-issues.png?label=ready&title=Ready)](https://waffle.io/openrightsgroup/cmp-issues)
 cmp-issues
 ==========
 
