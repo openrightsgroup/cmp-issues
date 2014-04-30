@@ -1,4 +1,4 @@
 cmp-issues
 ==========
 
-Centralised [https://github.com/openrightsgroup/cmp-issues/issues](issue tracking) for the Censorship Monitoring Project.
+Centralised [issue tracking](https://github.com/openrightsgroup/cmp-issues/issues) for the Censorship Monitoring Project.
