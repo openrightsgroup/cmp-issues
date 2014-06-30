@@ -35,8 +35,8 @@ Becoming a helper and selecting issues
 Get started by signing up as a helper and picking an issue to work on.
 
 0. [Create a github account](https://github.com/) if you don't have one already.
-1. Click this badge to see our list of open issues: [![Stories in Ready](https://badge.waffle.io/openrightsgroup/cmp-issues.png?label=ready&title=Ready)](https://waffle.io/openrightsgroup/cmp-issues).
-2. Pick an issue to work on from the `Ready` column. The issues that would be the most valuable to close are at the top of the list.
+1. Click this badge to see the list of features we want to build next: [![Stories in Next](https://badge.waffle.io/openrightsgroup/cmp-issues.png?label=ready&title=To+do+next)](https://waffle.io/openrightsgroup/cmp-issues).
+2. Pick an issue to work on from the `To do next` column. The issues that would be the most valuable to close are at the top of the list.
 3. Log into waffle.io with your github account by clicking the button in the top-left corner. You will be asked to authorise waffle.io to access your github account then you'll be returned to the issues board.
 4. Add a comment to the issue you picked saying you'd like it to be assigned to you. Feel free to include any thoughts, questions or ideas you might have for closing the issue, either in the same comment or subsequent ones.
 5. You can start working on the issue straight away - no need to wait for confirmation. See the next section for our issue-closing workflow.
